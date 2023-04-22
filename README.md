@@ -1,8 +1,8 @@
 # Accounts-NodeJs
 
-Nesse projeto usamos os core modules e módulos externo com o Node "puro", node sem nehum fremework(como Express por exemplo), 
-aqui reforçamos os fundamentos do NodeJs junto com npm e mais sobre o arquivo JSON, e um projeto sem interface grafica usado 
-totalemte no Terminal, imitando um sistema de caixa eletronico.
+Nesse projeto usamos os core modules e módulos externo com o Node "puro", node sem nenhum fremework(como Express por exemplo), 
+aqui reforçamos os fundamentos do NodeJs junto com npm e mais sobre o arquivo JSON, e um projeto sem interface gráfica usado 
+totalemte no Terminal, imitando um sistema de caixa eletrônico.
 
 ### Modules 
 - Módulo interno
@@ -11,9 +11,9 @@ totalemte no Terminal, imitando um sistema de caixa eletronico.
 - Core Module
   - FS
   
-Com o Inquirer usamos promeses que é a base dele jutamente com valição e tratamento de erros, o Chalk somente para uma visualização melhor no nosso terminal.
+Com o Inquirer usamos promises que é a base dele juntamente com validação e tratamento de erros, o Chalk somente para uma visualização melhor das operações no nosso terminal.
 
-Para acessar o projeto abra  o Terminal no diretório do projeto é com "npm start" iniciamos a aplicação:
+Para acessar o projeto abra o Terminal no diretório do projeto é com "npm start" iniciamos a aplicação:
 ![terminal-print](https://user-images.githubusercontent.com/102916535/233810633-f8e112e6-75b4-4c30-ac74-a48bd347871f.png)
 
 ### Funcionamento:
